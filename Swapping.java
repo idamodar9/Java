@@ -2,7 +2,7 @@ class Swapping
 {
 public static void main (String[]args)
 {
-  int a = 50,b=70,c=80,d;
+  int a = 50,b=70,c=90,d;
  d=a;
  a=b;
  b=c;

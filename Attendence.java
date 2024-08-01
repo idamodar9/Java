@@ -2,8 +2,8 @@ class Attendence
 {
 	public static void main(String[] args)
 	{
-	  int class_held = 200;
-	  double class_attend = 100;
+	  int class_held = 200000;
+	  double class_attend = 10011;
 	  double percentage = class_attend/class_held*100;
 	  System.out.println(percentage);
 	

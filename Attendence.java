@@ -7,7 +7,7 @@ class Attendence
 	  double percentage = class_attend/class_held*100;
 	  System.out.println(percentage);
 	
-		if(percentage>=75)
+		if(percentage>=70)
 		{
 		 System.out.println("ELIGIBLE FOR SIT IN EXAM");
 		}

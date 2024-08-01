@@ -4,7 +4,7 @@ class Fibonacci
 	{
 	  int n1 = 0;
 	  int n2 = 1;
-	  int temp;
+	  int temp=0;
 
 	 System.out.println(n1);
 	 System.out.println(n2);
